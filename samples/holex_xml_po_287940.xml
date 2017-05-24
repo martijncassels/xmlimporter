@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<order>
+  <version>2.10</version>
+  <customercode>MEMFIFTY</customercode>
+  <arrivaldate>05-24-2017</arrivaldate>
+  <processingmoment>05-12-2017 19:08</processingmoment>
+  <markname/>
+  <reference>PO-287940</reference>
+  <deliverydestination>
+    <deliverydestinationspecification>
+      <companyname/>
+      <contactname>Jeremy Cramer</contactname>
+      <addressline1>555 Easy St</addressline1>
+      <addressline2/>
+      <city>Boise</city>
+      <stateprovince>ID</stateprovince>
+      <postalcode>83714</postalcode>
+      <phonenumber>2087890826</phonenumber>
+      <countrycode>USA</countrycode>
+      <deliverydestinationremark1/>
+      <deliverydestinationremark2/>
+      <deliverydestinationemailaddress/>
+    </deliverydestinationspecification>
+  </deliverydestination>
+  <distributioncode/>
+  <series>
+    <serie>
+      <packingcode/>
+      <packed/>
+      <units>1</units>
+      <markname>PO-Item-ID-344896</markname>
+      <orderrows>
+        <orderrow>
+          <code>6231</code>
+          <marks>50</marks>
+          <quality>A1</quality>
+          <vbnarticle>1</vbnarticle>
+          <description>CRASPEDIA GLOBOSA</description>
+          <productunits>100</productunits>
+          <remark/>
+          <salesprice>0.25</salesprice>
+          <properties/>
+        </orderrow>
+      </orderrows>
+    </serie>
+    <serie>
+      <packingcode/>
+      <packed/>
+      <units>1</units>
+      <markname>PO-Item-ID-344897</markname>
+      <orderrows>
+        <orderrow>
+          <code>27618</code>
+          <marks>50.20</marks>
+          <quality>A1</quality>
+          <vbnarticle>1</vbnarticle>
+          <description>Freesia Double Mandarine</description>
+          <productunits>100</productunits>
+          <remark/>
+          <salesprice>0.98</salesprice>
+          <properties/>
+        </orderrow>
+      </orderrows>
+    </serie>
+  </series>
+</order>

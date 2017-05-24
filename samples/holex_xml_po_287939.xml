@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<order>
+  <version>2.10</version>
+  <customercode>MEMFIFTY</customercode>
+  <arrivaldate>06-14-2017</arrivaldate>
+  <processingmoment>05-12-2017 17:46</processingmoment>
+  <markname/>
+  <reference>PO-287939</reference>
+  <deliverydestination>
+    <deliverydestinationspecification>
+      <companyname/>
+      <contactname>Jeremy Cramer</contactname>
+      <addressline1>555 Easy St</addressline1>
+      <addressline2/>
+      <city>Boise</city>
+      <stateprovince>ID</stateprovince>
+      <postalcode>83714</postalcode>
+      <phonenumber>2087890826</phonenumber>
+      <countrycode>USA</countrycode>
+      <deliverydestinationremark1/>
+      <deliverydestinationremark2/>
+      <deliverydestinationemailaddress/>
+    </deliverydestinationspecification>
+  </deliverydestination>
+  <distributioncode/>
+  <series>
+    <serie>
+      <packingcode/>
+      <packed/>
+      <units>1</units>
+      <markname>PO-Item-ID-344895</markname>
+      <orderrows>
+        <orderrow>
+          <code>1304</code>
+          <marks>65</marks>
+          <quality>A1</quality>
+          <vbnarticle>1</vbnarticle>
+          <description>CAMPANULA MEDIUM BLUE</description>
+          <productunits>50</productunits>
+          <remark/>
+          <salesprice>1.76</salesprice>
+          <properties/>
+        </orderrow>
+      </orderrows>
+    </serie>
+  </series>
+</order>

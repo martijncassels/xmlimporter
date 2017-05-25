@@ -8,5 +8,5 @@ Todo:
 - [x] receive xml as stream
 - [x] call db
 - [x] use Stored Procedures (configurable) to inject xml
-- [ ] send responses
+- [x] send responses
 - [ ] test

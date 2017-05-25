@@ -6,7 +6,7 @@ Todo:
 - [x] push to github
 - [x] basic architecture
 - [x] receive xml as stream
-- [ ] call db
-- [ ] use Stored Procedures (configurable) to inject xml
+- [x] call db
+- [x] use Stored Procedures (configurable) to inject xml
 - [ ] send responses
 - [ ] test
